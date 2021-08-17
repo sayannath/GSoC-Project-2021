@@ -26,7 +26,9 @@ This repository contains the project where I contributed to the TensorFlow Team 
 | 5     | Modify the Test Code in Android                                                              |   Done  |
 | 6     | Add a Bounding Box Function in tflite-support library (Stretch Goal)                         | Ongoing |
 
-> You can find my Pull Request [here](https://github.com/tensorflow/examples/pull/341).
+> You can find my Pull Request [here](https://github.com/tensorflow/examples/pull/341). 
+
+> Blog Link: Coming Soon
 
 ## Acknowledgements
 
