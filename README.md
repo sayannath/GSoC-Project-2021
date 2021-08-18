@@ -13,7 +13,7 @@ This repository contains the project where I contributed to the TensorFlow Team 
 * **Year**: 2021
 * **Organisation**: [TensorFlow](https://www.tensorflow.org/)
 * **Project Title**: Improve Computer Vision Samples Apps
-* **Project Description**: Visit Later
+* **Project Description**: The idea behind the project is to improve the sample apps of Computer Vision which uses TensorFlow Lite Task Library as well as TensorFlow Support Library. The main objective is to implement CameraX and update the app so that the developers from the community find it easy to integrate Machine Learning with Android Apps.
 * **Mentors**: [George Soloupis](https://www.linkedin.com/in/george-soloupis/) and [Margaret M.](https://www.linkedin.com/in/margaretmz/)
 
 ## 🖥 Tasks
