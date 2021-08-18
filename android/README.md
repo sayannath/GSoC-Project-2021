@@ -1,6 +1,6 @@
 # TensorFlow Lite Object Detection Android Demo
 
-![Android Logo](./assets/android.jpg)
+![Android Logo](../assets/android.jpg)
 
 ### Overview
 
