@@ -2,7 +2,7 @@
 # GSoC Project 2021 - TensorFlow
 
 <p align="center">
-  <img height=220 width=400 src="assets/gsoc-logo.png"></center>
+  <img height=220 width=400 src="assets/gsoc-logo.png">
 </p>
 
 ## Description
