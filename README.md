@@ -32,7 +32,7 @@ This repository contains the project where I contributed to the TensorFlow Team 
 
 ## Acknowledgements
 
-I want to thanks [George Soloupis](https://www.linkedin.com/in/george-soloupis/), [Margaret M.](https://www.linkedin.com/in/margaretmz/), [Meghna Natraj](https://www.linkedin.com/in/meghnanatraj/), [Lu Wang](https://www.linkedin.com/in/lu-wang-21619a31/) and [TensorFlow Team](https://www.tensorflow.org/). I would also like to thank [Le Viet Gia Khanh](https://www.linkedin.com/in/lvgk/) and [Tian Tian](https://www.linkedin.com/in/tian-tian-01767a17/) for reviewing my pull request.  
+I want to thank [George Soloupis](https://www.linkedin.com/in/george-soloupis/), [Margaret M.](https://www.linkedin.com/in/margaretmz/), [Meghna Natraj](https://www.linkedin.com/in/meghnanatraj/), [Lu Wang](https://www.linkedin.com/in/lu-wang-21619a31/) and [TensorFlow Team](https://www.tensorflow.org/). I would also like to thank [Le Viet Gia Khanh](https://www.linkedin.com/in/lvgk/) and [Tian Tian](https://www.linkedin.com/in/tian-tian-01767a17/) for reviewing my pull request.  
 
 ## License
 
