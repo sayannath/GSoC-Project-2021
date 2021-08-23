@@ -28,6 +28,10 @@ This repository contains the project where I contributed to the TensorFlow Team 
 
 > You can find my Pull Request [here](https://github.com/tensorflow/examples/pull/341). 
 
+## Demo 
+
+https://user-images.githubusercontent.com/41967348/130404689-a4f791e1-3b43-487a-b5d3-4f25bb83afe1.mp4
+
 > Blog Link: Coming Soon
 
 ## Acknowledgements
