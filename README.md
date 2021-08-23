@@ -19,12 +19,12 @@ This repository contains the project where I contributed to the TensorFlow Team 
 ## 🖥 Tasks
 | Sl No | Task                                                                                         | Status  |
 |-------|----------------------------------------------------------------------------------------------|---------|
-| 1     | Implement CameraX and remove the usage of fragments with the existing Camera2 and Camera API |   Done  |
-| 2     | Implement Support Library with TensorFlow Lite Interpreter                                   |   Done  |
-| 3     | Implement Data Binding                                                                       |   Done  |
-| 4     | Implement the Image to BitMap conversion and modify Support Library and Task Library         |   Done  |
-| 5     | Modify the Test Code in Android                                                              |   Done  |
-| 6     | Add a Bounding Box Function in tflite-support library (Stretch Goal)                         | Ongoing |
+| 1     | **Implement CameraX and remove the usage of fragments with the existing Camera2 and Camera API** |   Done  |
+| 2     | **Implement Support Library with TensorFlow Lite Interpreter**                                  |   Done  |
+| 3     | **Implement Data Binding**                                                                      |   Done  |
+| 4     | **Implement the Image to BitMap conversion and modify Support Library and Task Library**         |   Done  |
+| 5     | **Modify the Test Code in Android**                                                             |   Done  |
+| 6     | **Add a Bounding Box Function in tflite-support library** (Stretch Goal)                         | Ongoing |
 
 > You can find my Pull Request [here](https://github.com/tensorflow/examples/pull/341). 
 
