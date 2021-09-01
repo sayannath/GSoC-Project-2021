@@ -32,7 +32,7 @@ This repository contains the project where I contributed to the TensorFlow Team 
 
 https://user-images.githubusercontent.com/41967348/130405410-9a7943f4-92a7-43e5-acc1-286950ca97e0.mp4
 
-> Blog Link: Coming Soon
+> Blog Link: Out Now. Click [Here](https://bit.ly/gsoc-medium)
 
 ## Acknowledgements
 
